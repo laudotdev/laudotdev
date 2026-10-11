@@ -56,7 +56,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ryuuufynnn&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=laudotdev&style=for-the-badge&label=Profile+Views" />
 
 <br>
 
