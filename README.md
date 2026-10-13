@@ -36,23 +36,23 @@
 
 ## GitHub Statistics
 <p align="left">
-  <img src="https://img.shields.io/badge/2026%20Contributions-1905-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2026%20Contributions-iloveyou-brightgreen?style=for-the-badge" />
 </p>
 
 <div align="left">
   <table>
 <tr>
 <td>
-<img src="https://streak-stats.demolab.com?user=ryuuufynnn&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=laudotdev&theme=tokyonight&hide_border=true" height="170" />
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuufynnn&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudotdev&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </td>
 
 <td valign="top">
 
-<img src="https://img.shields.io/github/followers/ryuuufynnn?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/laudotdev?style=for-the-badge&logo=github&label=Followers" />
 
 <br>
 
