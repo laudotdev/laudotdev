@@ -13,7 +13,7 @@
 - <img src="https://api.iconify.design/octicon:mortar-board-16.svg" width="16" /> **Education:** BS Computer Engineering — 2nd Year
 - <img src="https://api.iconify.design/octicon:code-16.svg" width="16" /> **Currently Working On:** Practical projects solving daily personal and workflow needs.
 - <img src="https://api.iconify.design/octicon:book-16.svg" width="16" /> **Currently Learning:** Python, JavaScript, Java, HTML, and CSS.
-- <img src="https://api.iconify.design/octicon:globe-16.svg" width="16" /> **Portfolio:** [ryu-dev.vercel.app](https://ryu-dev.vercel.app)
+- <img src="https://api.iconify.design/octicon:globe-16.svg" width="16" /> **Portfolio:** [laurence.laupyde.online](https://laurence.laupyde.online)
 
 ---
 
